@@ -1,0 +1,9 @@
+{
+  "skills": {
+    "matlab-workflow": {
+      "name": "matlab-workflow",
+      "filePath": ".claude/skills/matlab-workflow.md",
+      "description": "MATLAB + Simulink 数字信号处理项目标准化工作流"
+    }
+  }
+}
